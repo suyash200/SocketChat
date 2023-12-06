@@ -1,5 +1,5 @@
 # SocketChat
-A live chat system build upon mern stack and   socket.io
+A live chat system build upon mern stack and  socket.io , created to share instant updates during any game  season 🏏
 
 
 
