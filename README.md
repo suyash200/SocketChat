@@ -1,33 +1,42 @@
 # SocketChat
 A live chat system build upon mern stack and   socket.io
 
-Installation
-Clone the repository:
-Bash
-git clone <repository_url>
-Use code with caution. Learn more
-Install the dependencies:
-Bash
-npm install
-Use code with caution. Learn more
-Start the development server:
-Bash
-npm start
-Use code with caution. Learn more
-This will start a development server at http://localhost:3000. You should now see your React application running in the browser.
 
-Deployment
-To deploy your React application, you can build it for production and then deploy it to a static hosting service like Netlify or Vercel.
 
-To build your application for production:
+## Getting Started for client
 
-Bash
-npm run build
-Use code with caution. Learn more
-This will create a build directory that contains the production-ready build of your application. You can then deploy this directory to a static hosting service.
+First, run the development server:
 
-Contributing
-We welcome contributions to this project! Please read our contributing guidelines: CONTRIBUTING.md before making a pull request.
+```bash
+cd .\client\
+npm install 
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-License
-This project is licensed under the MIT License: LICENSE.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Getting Started for server
+
+First, run the development server:
+
+```bash
+cd .\server\
+npm install 
+npm run start
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+
+
+
